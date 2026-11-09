@@ -3,7 +3,7 @@
 <!-- omgithub:readme:start -->
 ## 🚀 Build, play, and remix with OMGithub
 
-**Created using [OMGithub.com](https://go.ondev.store/).**
+**Remixed using [OMGithub.com](https://go.ondev.store/).**
 
 [![OMGithub](https://img.shields.io/badge/OMGithub-Open%20project-orange?style=for-the-badge)](https://go.ondev.store/fuocos999-web/PlayGround)
 [![GitHub](https://img.shields.io/badge/GitHub-Source-181717?logo=github&style=for-the-badge)](https://github.com/fuocos999-web/PlayGround)
@@ -15,4 +15,5 @@
 - 🐛 [Report an issue](https://github.com/fuocos999-web/PlayGround/issues).
 - 👤 [Explore the creator's projects](https://go.ondev.store/fuocos999-web).
 - 🌍 [Create with OMGithub](https://go.ondev.store/).
+- 🧬 [Explore the remix source](https://github.com/fuocos999-web/PlayGround/tree/4325b919008397d7d6a6982d155c51bef272345a).
 <!-- omgithub:readme:end -->
